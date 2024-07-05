@@ -1,5 +1,5 @@
 
-<ul></ul>
+<ul>
 <li>Project Name:       Infinite Scroll</li>
 <li>Source Code:        CodePen</li>
 <li>Author Username:    jh3y</li>
